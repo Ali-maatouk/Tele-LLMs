@@ -81,6 +81,7 @@ Below, we share a code snippet on how to get quickly started with using these da
 #### Tele-Data
 
 ```python
+import json
 from datasets import load_dataset
 
 Tele_Data = load_dataset("AliMaatouk/Tele-Data")
